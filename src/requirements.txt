@@ -1,0 +1,5 @@
+pytest>=7.0
+# Optional — only needed if using specific adapters:
+# pyodbc          # sql_adapter (SQL Server)
+# psycopg2-binary # sql_adapter (PostgreSQL)
+# azure-cosmos    # cosmos_db_adapter
